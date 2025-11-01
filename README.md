@@ -9,3 +9,6 @@ This repository contains implementations of various machine learning algorithms 
 - **Experiment 4**: Ensemble Methods
 - **Experiment 5**: Neural Networks
 - **Experiment 6**: Dimensionality Reduction
+- **Experiment 7**: Clustering Models
+- **Theory Assignment**
+- **Cheat sheet**
